@@ -42,13 +42,13 @@ Gamma – Presentation (PPT) creation
 Jupyter Notebook – Analysis environment
 
 # 4. Project Workflow / Steps
-## Step 1: Data Loading
+### Step 1: Data Loading
 
 Imported dataset into Python using Pandas.
 
 Verified structure, columns, and data types.
 
-## Step 2: Exploratory Data Analysis (EDA)
+### Step 2: Exploratory Data Analysis (EDA)
 
 Checked missing values.
 
@@ -58,7 +58,7 @@ Performed summary statistics.
 
 Visualized key patterns.
 
-## Step 3: Data Cleaning
+### Step 3: Data Cleaning
 
 Handled missing values.
 
@@ -68,7 +68,7 @@ Standardized column names.
 
 Converted data types where necessary.
 
-## Step 4: SQL Analysis
+### Step 4: SQL Analysis
 
 Imported cleaned data into PostgreSQL/MySQL/SQL Server.
 
@@ -84,7 +84,7 @@ Subscription analysis
 
 Category-wise insights
 
-## Step 5: Power BI Dashboard
+### Step 5: Power BI Dashboard
 
 Connected Power BI to SQL database.
 
@@ -100,7 +100,7 @@ Revenue trends
 
 Designed interactive filters and slicers.
 
-## Step 6: Report & Presentation
+### Step 6: Report & Presentation
 
 Created a structured analytical report summarizing:
 
