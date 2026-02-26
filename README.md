@@ -1,5 +1,5 @@
 # customer_data_analysis
-1. Overview
+#1. Overview
 
 This project demonstrates an end-to-end Data Analytics workflow, starting from data loading in Python to building an interactive Power BI dashboard and presenting insights through a structured report and presentation.
 
