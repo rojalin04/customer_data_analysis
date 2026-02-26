@@ -1,5 +1,5 @@
 # customer_data_analysis
-#1. Overview
+# 1. Overview
 
 This project demonstrates an end-to-end Data Analytics workflow, starting from data loading in Python to building an interactive Power BI dashboard and presenting insights through a structured report and presentation.
 
@@ -19,7 +19,7 @@ Present findings using a structured PPT (created with Gamma)
 
 This project showcases skills in Python, SQL, data cleaning, visualization, and business reporting.
 
-2. Dataset
+# 2. Dataset
 
 The dataset contains structured data related to business/customer/transaction analysis.
 
@@ -27,7 +27,7 @@ It includes features such as categorical variables, numerical variables, and tra
 
 The dataset was loaded and processed using Python.
 
-3. Tools & Technologies Used
+# 3. Tools & Technologies Used
 
 Python – Data loading, EDA, and data cleaning
 
@@ -41,14 +41,14 @@ Gamma – Presentation (PPT) creation
 
 Jupyter Notebook – Analysis environment
 
-4. Project Workflow / Steps
-Step 1: Data Loading
+# 4. Project Workflow / Steps
+## Step 1: Data Loading
 
 Imported dataset into Python using Pandas.
 
 Verified structure, columns, and data types.
 
-Step 2: Exploratory Data Analysis (EDA)
+## Step 2: Exploratory Data Analysis (EDA)
 
 Checked missing values.
 
@@ -58,7 +58,7 @@ Performed summary statistics.
 
 Visualized key patterns.
 
-Step 3: Data Cleaning
+## Step 3: Data Cleaning
 
 Handled missing values.
 
@@ -68,7 +68,7 @@ Standardized column names.
 
 Converted data types where necessary.
 
-Step 4: SQL Analysis
+## Step 4: SQL Analysis
 
 Imported cleaned data into PostgreSQL/MySQL/SQL Server.
 
@@ -84,7 +84,7 @@ Subscription analysis
 
 Category-wise insights
 
-Step 5: Power BI Dashboard
+## Step 5: Power BI Dashboard
 
 Connected Power BI to SQL database.
 
@@ -100,7 +100,7 @@ Revenue trends
 
 Designed interactive filters and slicers.
 
-Step 6: Report & Presentation
+## Step 6: Report & Presentation
 
 Created a structured analytical report summarizing:
 
@@ -112,7 +112,7 @@ Recommendations
 
 Developed a professional PPT using Gamma to present findings.
 
-5. Dashboard Highlights
+# 5. Dashboard Highlights
 
 The Power BI dashboard includes:
 
@@ -132,7 +132,7 @@ Top Purchased Products
 
 The dashboard provides clear and interactive business insights for decision-making.
 
-6. Key Results & Insights
+# 6. Key Results & Insights
 
 Identified high-revenue customer segments.
 
